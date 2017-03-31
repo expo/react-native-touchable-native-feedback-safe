@@ -1,0 +1,18 @@
+{
+  "name": "@expo/react-native-touchable-native-feedback-safe",
+  "version": "1.1.2",
+  "description": "Use TouchableNativeFeedback where possible and fallback to alternatives where not.",
+  "main": "TouchableNativeFeedbackSafe.js",
+  "scripts": {
+  },
+  "files": [
+    "TouchableNativeFeedbackSafe.js"
+  ],
+  "keywords": [
+    "react-native",
+    "exponent",
+    "react"
+  ],
+  "author": "Brent Vatne <brent@expo.io>",
+  "license": "MIT"
+}
